@@ -5,3 +5,9 @@ funciona mediante a una regla de 3 para realizar sus respectivas mediciones
 <h3>Georreferenciacion 1</h3>
 
 ![](Imagenes/geo.PNG)
+<h3>Georreferenciacion 2</h3>
+
+![](Imagenes/geo2.PNG)
+<h3>Georreferenciacion 3</h3>
+
+![](Imagenes/geo3.PNG)
